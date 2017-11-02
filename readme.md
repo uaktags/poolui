@@ -1,5 +1,7 @@
 # Monero Pool frontend
 
+### Edited for AEON
+
 ### AngularJS based UI for [nodejs-pool](https://github.com/Snipa22/nodejs-pool)
 
 ### Features
